@@ -2,7 +2,7 @@
 The scripts in this repository are a result of the research into enhanched dendroprovenancing using gridded environmental variables. Scripts are expected to be ran in sequence in ascending order. For further documentation we refer to the inline comments.
 
 ## Python package requirements
-````
+```
 astropy
 fiona
 gdal
@@ -26,8 +26,7 @@ tqdm
 
 ## Folder Structure
 Prepare the following folders in the same directory as the python scripts:
-```none
-airs
+```
 ├── 0_1a_trw_download
 ├── 0_1b_trw_raw
 ├── 0_2_CRU_TS
