@@ -19,8 +19,8 @@ statsmodels
 tqdm
 
 ## System requirements
-\>16gb RAM
-~50gb storage space (depending on the number of chronologies)
+- \>16gb RAM
+- ~50gb storage space (depending on the number of chronologies)
 
 ## Folder Structure
 Prepare the following folders in the same directory as the python scripts:
